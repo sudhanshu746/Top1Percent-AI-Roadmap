@@ -2,6 +2,11 @@
 
 ## The 7-Step Guide to Top 1% AI Usage
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu746/">
+    <img src="ai_mastery_banner.png" width="900px" alt="AI_Mastery">
+  </a>
+</p>
 
 ## Overview
 
