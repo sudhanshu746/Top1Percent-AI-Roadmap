@@ -1,4 +1,6 @@
-# 🚀 Top 1% AI Mastery Roadmap: The 7-Step Guide to Top 1% AI Usage
+# 🚀 Top 1% AI Mastery Roadmap
+
+## The 7-Step Guide to Top 1% AI Usage
 
 
 ## Overview
